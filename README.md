@@ -18,3 +18,15 @@
 </p>
 
 ###
+
+## 📫 Connect with Me
+
+- **GitHub**: [evramfady](https://github.com/evramfady)  
+- **Email**: evramfady.ef@gmail.com 
+- **LinkedIn**: https://www.linkedin.com/in/evram-fady/ 
+- **Open to:** mentoring, collaboration, new project ideas
+
+---
+
+Thanks for stopping by!  
+Let’s build something cool together. 🚀
