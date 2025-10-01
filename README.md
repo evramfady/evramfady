@@ -1,39 +1,62 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋, I’m Evram Fady</h1>
 
-###
+<p align="left">🇪🇬 Based in Egypt · Passionate about building things on the web</p>
 
-<p align="left">My name is Evram Fady and I'm a passionate developer, from Egypt.</p>
+---
 
-###
+## 💡 About Me
 
-<h2 align="left">About me</h2>
+- Coding and learning since 2021  
+- Always curious: I explore new web technologies — front-end, back-end, full stack  
+- I aim to build projects that make an impact, contribute to open source, and keep growing  
+- Fun fact: I enjoy “breaking” code first to learn better fixes 😄
 
-###
+---
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning and exploring new technologies in web development<br>🎯 Goals: Build impactful projects, contribute to open source, and grow as a developer<br>🎲 Fun fact: I love to experiment with code and turn ideas into reality!</p>
+## 🚀 What I’m Working On
 
-###
+*(These are some of my public projects — feel free to click through to see code, demos, docs, etc.)*
 
-<h2 align="left">I code with</h2>
+| Project | Description | Tech / Highlights |
+|---|---|---|
+| **Project A** | Short description of Project A (what it does, who it’s for) | React, Next.js, TypeScript, etc. |
+| **Project B** | Short description of Project B | Node.js, Express, REST APIs, etc. |
+| **Project C** | Short description of Project C | Testing (Jest), storybook, UI components, etc. |
 
-###
+> ℹ️ I’m constantly adding more — keep an eye on my repos page!
+
+---
+
+## 🛠️ Tech Stack & Tools
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="Storybook" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="NestJS" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest" />
 </div>
 
-###
+---
+
+## 📫 Connect with Me
+
+- **GitHub**: [evramfady](https://github.com/evramfady)  
+- **Email**: your.email@example.com  
+- **LinkedIn / Twitter / etc.** *(add links if you have any)*  
+- **Open to:** mentoring, collaboration, new project ideas
+
+---
+
+Thanks for stopping by!  
+Let’s build something cool together. 🚀
